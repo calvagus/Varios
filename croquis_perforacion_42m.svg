@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
   <defs>
     <pattern id="cemento" width="16" height="16" patternUnits="userSpaceOnUse">
@@ -30,7 +31,7 @@
   </defs>
 
   <rect width="900" height="1200" fill="white"/>
-  <text x="450" y="58" text-anchor="middle" class="titulo">PERFIL CONSTRUCTIVO DE LA PERFORACIÓN</text>
+  <text x="450" y="58" text-anchor="middle" class="titulo">PERFIL CONSTRUCTIVO DE LA PERFORACI&#211;N</text>
 
   <!-- Nivel de terreno -->
   <line x1="105" y1="115" x2="535" y2="115" class="linea"/>
@@ -49,14 +50,14 @@
   <rect x="220" y="115" width="180" height="670" fill="url(#cemento)" stroke="#222" stroke-width="3"/>
   <rect x="220" y="785" width="180" height="270" fill="url(#grava)" stroke="#222" stroke-width="3"/>
 
-  <!-- Cañería y filtro -->
+  <!-- Caneria y filtro -->
   <rect x="275" y="115" width="70" height="670" fill="#fff" stroke="#222" stroke-width="4"/>
   <rect x="275" y="785" width="70" height="270" fill="url(#filtro)" stroke="#222" stroke-width="4"/>
 
   <!-- Etiquetas -->
   <text x="505" y="280" class="etiqueta">
-    <tspan x="505" dy="0">Cañería de PVC Ø 115 mm,</tspan>
-    <tspan x="505" dy="31">clase 6  Tubo Pocero</tspan>
+    <tspan x="505" dy="0">Ca&#241;er&#237;a de PVC &#216; 115 mm,</tspan>
+    <tspan x="505" dy="31">clase 6 &#8211; Tubo Pocero</tspan>
   </text>
   <path d="M495 290 L350 335" class="guia"/>
 
