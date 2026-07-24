@@ -19,7 +19,7 @@ from datetime import date
 from pathlib import Path
 
 
-IDENTIFICADOR = "urn:uuid:93af3348-9c6c-4fea-a2d6-curso-python-2026"
+IDENTIFICADOR = "urn:uuid:93af3348-9c6c-4fea-a2d6-9c4aee00c026"
 TITULO = "Python de cero a producción"
 AUTOR = "Curso práctico"
 IDIOMA = "es"
